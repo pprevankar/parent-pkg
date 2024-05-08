@@ -1,5 +1,5 @@
 {
-  "name": "@pprevankar/parent",
+  "name": "@pprevankar/parent-pkg",
   "version": "1.0.0",
   "description": "Checking parent package details",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "@pprevankar:registry": "https://npm.pkg.github.com"
   },
   "keywords": [
-    "systemlog"
+    "parent-pkg"
   ],
   "author": "cret",
   "license": "ISC",
